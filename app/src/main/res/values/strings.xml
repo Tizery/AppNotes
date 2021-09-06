@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">AppNotes</string>
+    <string name="apple">Яблоко</string>
+    <string name="appleDesc">Каллорийность яблока</string>
+    <string name="appleDate">Дата создания заметки про яблоко:</string>
+    <string name="orange">Апельсин</string>
+    <string name="orangeDesc">Каллорийность апельсина</string>
+    <string name="orangeDate">Дата создания заметки про апельсин:</string>
+    <string name="banana">Банан</string>
+    <string name="bananaDesc">Каллорийность банана</string>
+    <string name="bananaDate">Дата создания заметки про банан:</string>
+
 </resources>
